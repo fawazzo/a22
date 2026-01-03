@@ -5,7 +5,7 @@ import axios from 'axios';
 const AuthContext = createContext();
 
 // Set the base URL for Axios
-axios.defaults.baseURL = 'https://a2-0zku.onrender.com/'; 
+axios.defaults.baseURL = 'https://a2-0zku.onrender.com'; 
 
 export const useAuth = () => useContext(AuthContext);
 
