@@ -6,7 +6,7 @@ const Footer = () => {
     <footer className="bg-primary-dark text-white py-6">
       <div className="container mx-auto px-4 text-center">
         {/* Telif hakkı çevirisi */}
-        <p>&copy; {new Date().getFullYear()} Yemeksepeti. Tüm hakları saklıdır.</p>
+        <p>&copy; {new Date().getFullYear()} lezzet kapım. Tüm hakları saklıdır.</p>
         {/* Metin çevirisi */}
         <p className="text-sm text-gray-400 mt-1">React, Node ve Orange ile geliştirilmiştir.</p>
       </div>
