@@ -39,7 +39,7 @@ const Navbar = ({ onCartClick, cartItemCount }) => {
         {/* Logo */}
         <Link to="/" className="text-white text-2xl font-bold tracking-wider hover:text-white/90">
           {/* Logo Metni Çevirisi */}
-          YEMEKSEPETİ CLONE
+          lezzet kepım
         </Link>
 
         {/* Navigation Links / Navigasyon Bağlantıları */}
